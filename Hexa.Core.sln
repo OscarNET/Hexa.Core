@@ -54,6 +54,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".build", ".build", "{4F194D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hexa.Core.Log4net", "Hexa.Core.Log4net\Hexa.Core.Log4net.csproj", "{5BD390A6-3DEA-4E44-A8FD-0942F6B4E188}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hexa.Core.Windows.Mvvm", "Hexa.Core.Windows.Mvvm\Hexa.Core.Windows.Mvvm.csproj", "{87B7F425-2A1F-4EC6-8601-821FC1B936F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hexa.Core.Windows.Mvvm.Tests", "Hexa.Core.Windows.Mvvm.Tests\Hexa.Core.Windows.Mvvm.Tests.csproj", "{BF056BC9-CEC8-4956-9E1E-5E1154D0BF20}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -88,6 +92,14 @@ Global
 		{5BD390A6-3DEA-4E44-A8FD-0942F6B4E188}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5BD390A6-3DEA-4E44-A8FD-0942F6B4E188}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5BD390A6-3DEA-4E44-A8FD-0942F6B4E188}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87B7F425-2A1F-4EC6-8601-821FC1B936F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87B7F425-2A1F-4EC6-8601-821FC1B936F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87B7F425-2A1F-4EC6-8601-821FC1B936F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87B7F425-2A1F-4EC6-8601-821FC1B936F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF056BC9-CEC8-4956-9E1E-5E1154D0BF20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF056BC9-CEC8-4956-9E1E-5E1154D0BF20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF056BC9-CEC8-4956-9E1E-5E1154D0BF20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF056BC9-CEC8-4956-9E1E-5E1154D0BF20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
